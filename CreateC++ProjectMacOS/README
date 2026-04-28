@@ -2,14 +2,14 @@ CreateC++Project for MacOS
 
 A simple tool to create C++ project structure on Windows.
 
-Using Compiler for MacOS: Clang
+Using Compiler C++ for MacOS: Clang
 
 Usage:
 1. CreateC++Project in PATH (/usr/local/bin)
 2. Open Terminal
 3. Run:
 
-   CreateC++Project
+   CreateC++Project <name>
 
 This will generate a basic C++ project with source files and build setup.
 

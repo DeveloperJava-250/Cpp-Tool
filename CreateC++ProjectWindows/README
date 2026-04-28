@@ -2,14 +2,14 @@ CreateC++Project for Windows
 
 A simple tool to create C++ project structure on Windows.
 
-Using Compiler for Windows: MinGW
+Using Compiler C++ for Windows: MinGW
 
 Usage:
 1. Copy CreateC++Project.exe to a folder in your PATH (e.g. C:\Windows or add custom folder to PATH)
 2. Open Command Prompt (CMD) or Terminal
 3. Run:
 
-    CreateC++Project
+    CreateC++Project <name>
 
 This will generate a basic C++ project with source files and build setup.
 
