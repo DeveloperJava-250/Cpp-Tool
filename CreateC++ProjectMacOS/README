@@ -1,0 +1,14 @@
+CreateC++Project
+
+A simple tool to create C++ project structure on Windows.
+
+Usage:
+1. CreateC++Project in PATH (/usr/local/bin)
+2. Open or Terminal
+3. Run:
+
+   CreateC++Project
+
+This will generate a basic C++ project with source files and build setup.
+
+Author: Dez
