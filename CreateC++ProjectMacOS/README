@@ -13,4 +13,7 @@ Usage:
 
 This will generate a basic C++ project with source files and build setup.
 
+This tool only creates a basic C++ project structure.
+It does NOT replace Make or CMake.
+
 Author: Devdez
